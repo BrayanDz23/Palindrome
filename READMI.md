@@ -1,20 +1,19 @@
 # Instrucciones de compilación, instalación, despliegue y uso de la API
 Lo primero que debes hacer es clonar la Api para ejecutarla poderla ejecutar:
 
-[![Imagen clonar](https://drive.google.com/file/d/1uW6qMcG2AqDohiBt6krUlrLdzg91AGmZ/view?usp=sharing)
+[![Imagen clonar](https://i.postimg.cc/02FQvY4q/Imagenprueba5.jpg)](https://postimg.cc/nCKZYDZd)
 
 Despues importamos el proyecto en Sprint tools:
 
-[![Imagen proyecto importado](https://drive.google.com/file/d/1zzg6KX6j-Rqj_PLciqhPETSEEM_a2D1y/view?usp=sharing)
+[![Imagen proyecto importado](https://i.postimg.cc/pV0rGbYr/Imagenprueba6.jpg)](https://postimg.cc/hhdKvYYR)
 
 Ejecutamos la Api:
 
-[![imagen proyecto iniciado](https://drive.google.com/file/d/1MUpHeIUgnTcO2xmIF_LgZx54zQKJe5_0/view?usp=sharing)
+[![imagen proyecto iniciado](https://i.postimg.cc/Rhb0NKVK/Imagenprueba7.jpg)](https://postimg.cc/q6yrFtKv)
 
 Probamos con postman, enviamos usuario y contraseña para obtener token:
 
-[![obteniendo token en postman]([![imagen proyecto iniciado]([https://drive.google.com/file/d/1MUpHeIUgnTcO2xmIF_LgZx54zQKJe5_0/view?usp=sharing))
-[obteniendo token en postman](https://postimg.cc/yJxHHpR5)
+[![obteniendo token en postman](https://i.postimg.cc/25F8nPSz/imagenprueba1.jpg)](https://postimg.cc/yJxHHpR5)
 
 Probamos sin autenticación](https://postimg.cc/yJxHHpR5):
 
