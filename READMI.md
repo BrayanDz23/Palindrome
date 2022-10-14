@@ -13,9 +13,10 @@ Ejecutamos la Api:
 
 Probamos con postman, enviamos usuario y contraseña para obtener token:
 
-[![obteniendo token en postman]([![imagen proyecto iniciado](https://drive.google.com/file/d/1MUpHeIUgnTcO2xmIF_LgZx54zQKJe5_0/view?usp=sharing))
+[![obteniendo token en postman]([![imagen proyecto iniciado]([https://drive.google.com/file/d/1MUpHeIUgnTcO2xmIF_LgZx54zQKJe5_0/view?usp=sharing))
 
-Probamos sin autenticación:
+Probamos sin autenticación](https://postimg.cc/yJxHHpR5):
+
 [![Sin autenticacion]([![imagen proyecto iniciado](https://drive.google.com/file/d/1W_KrlC5-87rN-aHfPXaFpIjO8uAt8GOz/view?usp=sharing))
 
 Enviamos cadena sin autenticacion y nos muestra lo siguiente:
