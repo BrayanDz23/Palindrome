@@ -1,5 +1,5 @@
 # Instrucciones de compilación, instalación, despliegue y uso de la API
-- Lo primero que debes hacer es clonar la Api para ejecutarla poderla ejecutar:
+- Lo primero que debes hacer es clonar la Api:
 
 [![Imagen clonar](https://i.postimg.cc/02FQvY4q/Imagenprueba5.jpg)](https://postimg.cc/nCKZYDZd)
 
