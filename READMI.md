@@ -15,13 +15,14 @@
 
 [![obteniendo token en postman](https://i.postimg.cc/25F8nPSz/imagenprueba1.jpg)](https://postimg.cc/yJxHHpR5)
 
-- Probamos sin autenticación](https://postimg.cc/yJxHHpR5):
+- Probamos sin autenticación:
 
 [![imagenprueba2.jpg](https://i.postimg.cc/tgH4ZXyS/imagenprueba2.jpg)](https://postimg.cc/xXt2BVXM)
 
 - Enviamos cadena sin autenticacion y nos muestra lo siguiente:
+
 [![imagenprueba3.jpg](https://i.postimg.cc/jdL5BgZX/imagenprueba3.jpg)](https://postimg.cc/D83nXgVJ)
 
 - Enviamos cadena autorizando con el token anteriormente obtenido, obteniendo como resultado el palindromo mas largo de la cadena:
-- 
+
 [![imagenprueba4.jpg](https://i.postimg.cc/Z5Nq59kv/imagenprueba4.jpg)](https://postimg.cc/G4cRMmmb)
