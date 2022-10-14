@@ -14,6 +14,7 @@ Ejecutamos la Api:
 Probamos con postman, enviamos usuario y contraseña para obtener token:
 
 [![obteniendo token en postman]([![imagen proyecto iniciado]([https://drive.google.com/file/d/1MUpHeIUgnTcO2xmIF_LgZx54zQKJe5_0/view?usp=sharing))
+[obteniendo token en postman](https://postimg.cc/yJxHHpR5)
 
 Probamos sin autenticación](https://postimg.cc/yJxHHpR5):
 
